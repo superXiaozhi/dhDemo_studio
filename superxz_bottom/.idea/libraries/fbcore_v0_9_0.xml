@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="fbcore-v0.9.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/fbcore-v0.9.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/bolts-android-1.1.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/imagepipeline-base-v0.9.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/library-2.4.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/pinyin4j-2.5.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

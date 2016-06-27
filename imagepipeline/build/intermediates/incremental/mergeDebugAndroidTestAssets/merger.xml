@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="debug"><source path="E:\workplace_studio\dhdemo\imagepipeline\build\intermediates\bundles\debug\assets"/></dataSet><dataSet config="main"><source path="E:\workplace_studio\dhdemo\imagepipeline\src\androidTest\assets"/><source path="E:\workplace_studio\dhdemo\imagepipeline\build\generated\assets\shaders\androidTest\debug"/></dataSet></merger>

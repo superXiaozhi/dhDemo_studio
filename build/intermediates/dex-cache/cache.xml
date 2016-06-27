@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="E:\workplace_studio\dhdemo\superxz_bottom\build\intermediates\exploded-aar\dhdemo\imagepipeline\unspecified\jars\libs\imagepipeline-v0.9.0.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.3"
+        sha1="d47bb26559764476524f2ef1608c693047617266">
+        <dex dex="E:\workplace_studio\dhdemo\superxz_bottom\build\intermediates\transforms\dex\debug\folders\1000\8\imagepipeline-v0.9.0_fb0c2d57c092684e06acc492dd2b16454363fb93\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\workplace_studio\dhdemo\superxz_bottom\libs\fbcore-v0.9.0.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.3"
+        sha1="8efc624a608fc1cdfc9fb8db8360aea2ea4858dd">
+        <dex dex="E:\workplace_studio\dhdemo\superxz_bottom\build\intermediates\transforms\dex\debug\folders\1000\2\fbcore-v0.9.0_5ef1e8bfc46b4f6b879908e14c56f86396e066f1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\workplace_studio\dhdemo\superxz_bottom\build\intermediates\exploded-aar\dhdemo\imagepipeline\unspecified\jars\libs\library-2.4.0.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.3"
+        sha1="1a08a337fef6339ebe4528655c6de5aaf655c914">
+        <dex dex="E:\workplace_studio\dhdemo\superxz_bottom\build\intermediates\transforms\dex\debug\folders\1000\8\library-2.4.0_6c62c0173a48e4d0fd163cdb1b8abcacf50311c5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\workplace_studio\dhdemo\superxz_bottom\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.3"
+        sha1="87dca545d4658c3a4973a691c62a8f716667e956">
+        <dex dex="E:\workplace_studio\dhdemo\superxz_bottom\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_a7a92f43b6c7d64c0485a8a76e2935fdda60f4eb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\workplace_studio\dhdemo\superxz_bottom\libs\android-support-v4.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.3"
+        sha1="3b20dc871d179ba476082efe543dc1b38db46e30">
+        <dex dex="E:\workplace_studio\dhdemo\superxz_bottom\build\intermediates\transforms\dex\debug\folders\1000\2\android-support-v4_f39c0ecb9fac0dcb6ac8868e941528f3c6b06ff4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\workplace_studio\dhdemo\superxz_bottom\libs\pinyin4j-2.5.0.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.3"
+        sha1="ae353005f973da1cd8545b54354504c2503f6865">
+        <dex dex="E:\workplace_studio\dhdemo\superxz_bottom\build\intermediates\transforms\dex\debug\folders\1000\2\pinyin4j-2.5.0_ace604f161b37fb7f28a6f7a6c3ece9e6e567a28\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\workplace_studio\dhdemo\superxz_bottom\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.3"
+        sha1="eafff356911b1aaf5638b9b70415ec2a26ab1c10">
+        <dex dex="E:\workplace_studio\dhdemo\superxz_bottom\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_368b786e5d03aa730fa2acd58e64e2d513f70d9c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\workplace_studio\dhdemo\superxz_bottom\build\intermediates\exploded-aar\dhdemo\imagepipeline\unspecified\jars\libs\bolts-android-1.1.4.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.3"
+        sha1="1abd496b66f940f19d49a1c3d093eab44238ba29">
+        <dex dex="E:\workplace_studio\dhdemo\superxz_bottom\build\intermediates\transforms\dex\debug\folders\1000\8\bolts-android-1.1.4_de3efe4883a0753580255bcc74869aee93591e50\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\workplace_studio\dhdemo\superxz_bottom\build\intermediates\exploded-aar\dhdemo\drawee\unspecified\jars\libs\drawee-v0.9.0.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.3"
+        sha1="bdfc39a0e067a8e2371f8a57fc75f8d349537203">
+        <dex dex="E:\workplace_studio\dhdemo\superxz_bottom\build\intermediates\transforms\dex\debug\folders\1000\8\drawee-v0.9.0_3fc272b1f4386beb5500370b9de91ee9c15b04f4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\workplace_studio\dhdemo\superxz_bottom\libs\fresco-v0.9.0.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.3"
+        sha1="a966d8a08abe95ae5a87b5a4b9d7d96c7debfb42">
+        <dex dex="E:\workplace_studio\dhdemo\superxz_bottom\build\intermediates\transforms\dex\debug\folders\1000\2\fresco-v0.9.0_56964ced90ee4466315b2565735c732a7e076948\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\workplace_studio\dhdemo\superxz_bottom\libs\imagepipeline-base-v0.9.0.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.3"
+        sha1="08439bc8bee5b56959c0efa2d726ce040df654df">
+        <dex dex="E:\workplace_studio\dhdemo\superxz_bottom\build\intermediates\transforms\dex\debug\folders\1000\2\imagepipeline-base-v0.9.0_9737112146e24f1ebc6e9ffe993506acaece553c\classes.dex" />
+    </item>
+
+</items>

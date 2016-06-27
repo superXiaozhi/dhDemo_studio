@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../drawee/drawee.iml" filepath="$PROJECT_DIR$/../drawee/drawee.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../imagepipeline/imagepipeline.iml" filepath="$PROJECT_DIR$/../imagepipeline/imagepipeline.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/superxz_bottom.iml" filepath="$PROJECT_DIR$/.idea/superxz_bottom.iml" />
+    </modules>
+  </component>
+</project>
